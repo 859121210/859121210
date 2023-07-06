@@ -19,6 +19,8 @@
 
 {"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
+{"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
+
 {"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
 
 {"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
@@ -65,7 +67,7 @@
 
 {"key": "csp_TVB","name": "🅱️TVB云播|T追剧","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/TVB云播.json"},
 
-{"key": "csp_555","name": "🅱️珊瑚影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
+//{"key": "csp_555","name": "🅱️珊瑚影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
 {"key": "csp_七年","name": "🅱️七年影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/七年影视.json"},
 
