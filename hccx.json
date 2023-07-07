@@ -29,13 +29,13 @@
 
 //{"key":"js_酷云77","name":"🅱️酷云影视|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/kuyun77.js"},
 
-{"key":"js_爱奇艺","name":"🅱️奇艺官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱奇艺影视.js"},
+//{"key":"js_爱奇艺","name":"🅱️奇艺官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱奇艺影视.js"},
 
-{"key":"js_优酷","name":"🅱️优酷官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷影视.js"},
+//{"key":"js_优酷","name":"🅱️优酷官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷影视.js"},
 
-{"key":"js_腾讯","name":"🅱️腾讯官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾讯影视.js"},
+//{"key":"js_腾讯","name":"🅱️腾讯官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾讯影视.js"},
 
-{"key":"js_芒果","name":"🅱️芒果官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/芒果影视.js"},
+//{"key":"js_芒果","name":"🅱️芒果官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/芒果影视.js"},
 
 {"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/搜狗影视.js"},
 
@@ -75,13 +75,13 @@
 
 {"key": "csp_真不卡","name": "🅱️不卡影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/真不卡影视.json"},
 
-//{"key": "csp_大米","name": "🅱️大米星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大米星球.json"},
+{"key": "csp_大米","name": "🅱️大米星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大米星球.json"},
 
 {"key": "csp_兔瓜","name": "🅱️兔瓜影视|T追剧","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/兔兔瓜.json"},
 
 {"key": "csp_101","name": "🅱️摇玲影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/101影视.json"},
 
-//{"key": "csp_xBPQ_达龟","name": "🅱️达龟影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/达达龟影视.json"},
+{"key": "csp_xBPQ_达龟","name": "🅱️达龟影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/达达龟影视.json"},
 
 {"key": "csp_xBPQ_66","name": "🅱️鎏琉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/66影视.json"},
 
@@ -119,10 +119,6 @@
 
 //{"key": "csp_360","name": "🅱️影视官源|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},
 
-{"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_ysdq.py"},
-
-{"key": "py_cctv","name": "📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_yszx.py"},
-
 //{"key": "Gitcafe","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
 {"key": "Paper","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
@@ -138,6 +134,14 @@
 //{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
 
 {"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"8258ace56b504539bcf66620364cacf2"},
+
+{"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_ysdq.py"},
+
+{"key": "py_cctv","name": "📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_yszx.py"},
+
+{"key": "csp_Yj1211","name": "📺综合在线直播","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key":"js_哔哩直播","name":"📺哔哩在线直播","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/哔哩直播.js"},
 
 {"key":"mtv_xp_动漫巴士","name":"🐼动漫丨巴士","type":3,"api":"csp_XBPQ"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/动漫巴士.json"},
 
