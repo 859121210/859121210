@@ -21,6 +21,8 @@
 
 {"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
 
+{"key": "csp_789","name": "🅱️芭蕉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/789影视.json"},
+
 {"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
 
 {"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
@@ -83,7 +85,7 @@
 
 {"key": "csp_xBPQ_66","name": "🅱️鎏琉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/66影视.json"},
 
-{"key": "csp_BT","name": "🅱️两个磁力|T追剧","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/bttwo.json"},
+//{"key": "csp_BT","name": "🅱️两个磁力|T追剧","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/bttwo.json"},
 
 {"key": "csp_007","name": "🅱️凌漆影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/007影视.json"},
 
