@@ -19,11 +19,19 @@
 
 {"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
+{"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
+
 {"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
 
 {"key": "csp_789","name": "🅱️芭蕉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/789影视.json"},
 
-{"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
+{"key": "csp_徕米","name": "🅱️徕米影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/徕米影视.json"},
+
+{"key": "csp_笑笑","name": "🅱️笑笑影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/笑笑影视.json"},
+
+{"key": "csp_夜光","name": "🅱️夜光影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/夜光影视.json"},
+
+{"key": "csp_酷茶","name": "🅱️酷茶影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷茶影视.json"},
 
 {"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
 
@@ -173,7 +181,7 @@
 
 {"name":"超级嗅探","type":3,"url":"Web"},
 
-{"name": "茶杯解析", "type": 1, "url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=chtBCEFHILNPWY0367&format=json&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+//{"name": "茶杯解析", "type": 1, "url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=chtBCEFHILNPWY0367&format=json&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
 {"name":"观音解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
