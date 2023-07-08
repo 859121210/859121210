@@ -218,7 +218,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             part = tmpJo['part']
             playUrl = playUrl + '{0}${1}_{2}#'.format(part,aid,cid)
 
-        vod['vod_play_from'] = 'B站'
+        vod['vod_play_from'] = '🌸荷城茶秀接口🌸B站线路'
         vod['vod_play_url'] = playUrl
 
         result = {
