@@ -7,7 +7,7 @@
 "warningText":"荷城茶秀接口完全免费，切勿付费购买！",
 "sites": [
  
-{"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/doubanjianpian2.js"},
+{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/Doubanrebo1.js","ext":"./JS/js/Doubanrebo2.js"},
 
 {"key":"cps_新片热播","name":"🅱️新片速看|T追剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 
