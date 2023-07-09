@@ -19,7 +19,7 @@
 
 {"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/"},
+{"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/","categories":["电影","连续剧","动漫"]},
 
 {"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
 
@@ -55,7 +55,7 @@
 
 //{"key": "csp_看看剧","name": "🅱️看剧影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
 
-{"key": "csp_王者","name": "🅱️王者影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/王者影视.json"},
+{"key": "csp_土豪","name": "🅱️土豪影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/土豪影视.json"},
 
 {"key": "csp_低端","name": "🅱️低端影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/低端影视.json"},
 
