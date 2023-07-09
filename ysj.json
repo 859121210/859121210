@@ -1,13 +1,13 @@
 {
 
-"spider":"./JAR/HeChengChaXiu.jar",
+"spider":"./JAR/HeChengChaXiu88.jar",
 
 "lives": [{"name": "live","type": 0,"url":"./TV/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "warningText":"荷城茶秀接口完全免费，切勿付费购买！",
 "sites": [
  
-{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/Doubanrebo1.js","ext":"./JS/js/Doubanrebo2.js"},
+{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/Api.js","ext":"./JS/js/Doubanrebo.js"},
 
 {"key":"cps_新片热播","name":"🅱️新片速看|T追剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 
@@ -35,13 +35,13 @@
 
 {"key": "csp_酷茶","name": "🅱️酷茶影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷茶影视.json"},
 
-{"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
+{"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/Api.js","ext":"./JS/js/360影视.js"},
 
-{"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/搜狗影视.js"},
+{"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./JS/lib/Api.js","ext":"./JS/js/搜狗影视.js"},
 
 {"key": "csp_厂长","name": "🅱️厂长影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/厂长影视.json"},
 
-{"key":"js_爱看机器人","name":"🅱️爱看机器|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱看机器人.js"},
+{"key":"js_爱看机器人","name":"🅱️爱看机器|T追剧","type":3,"api":"./JS/lib/Api.js","ext":"./JS/js/爱看机器人.js"},
 
 {"key": "csp_蚂蚁影院","name": "🅱️蚂蚁影院|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蚂蚁影院.json"},
 
@@ -129,8 +129,7 @@
 
 {"key": "csp_Yj1211","name": "📺综合｜直播","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 
-//{"key":"js_哔哩直播","name":"📺哔哩｜直播","type":3,"api":"./tvbox/JS/lib/drpy2.min.js","ext":"./tvbox/JS/js/哔哩直播.js"},
-
+//{"key":"js_哔哩直播","name":"📺哔哩｜直播","type":3,"api":"./tvbox/JS/lib/Api.js","ext":"./tvbox/JS/js/哔哩直播.js"},
 
 {"key":"mtv_xp_动漫巴士","name":"🐼动漫丨巴士","type":3,"api":"csp_XBPQ"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/动漫巴士.json"},
 
