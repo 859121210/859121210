@@ -47,15 +47,15 @@
 
 {"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/搜狗影视.js"},
 
-//{"key": "csp_厂长","name": "🅱️厂长影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/厂长影视.json"},
+{"key": "csp_厂长","name": "🅱️厂长影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/厂长影视.json"},
 
 {"key":"js_爱看机器人","name":"🅱️爱看机器|T追剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱看机器人.js"},
 
 {"key": "csp_蚂蚁影院","name": "🅱️蚂蚁影院|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蚂蚁影院.json"},
 
-{"key": "csp_看看剧","name": "🅱️看剧影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
+//{"key": "csp_看看剧","name": "🅱️看剧影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
 
-//{"key": "csp_王者","name": "🅱️王者影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/王者影视.json"},
+{"key": "csp_王者","name": "🅱️王者影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/王者影视.json"},
 
 {"key": "csp_低端","name": "🅱️低端影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/低端影视.json"},
 
