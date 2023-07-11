@@ -39,13 +39,15 @@
 
 {"key": "csp_低端","name": "🅱️低端影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/低端影视.json"},
 
-{"key": "csp_速映","name": "🅱️速映影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/速映影视.json"},
+{"key": "csp_饭团","name": "🅱️饭团影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/饭团影视.json"},
 
 {"key": "csp_Free","name": "🅱️Free影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Free影视.json"},
 
 {"key": "csp_大米","name": "🅱️大米星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大米星球.json"},
 
 {"key": "csp_视觉","name": "🅱️视觉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/新视觉影视.json"},
+
+{"key": "csp_速映","name": "🅱️速映影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/速映影视.json"},
 
 {"key": "csp_策驰","name": "🅱️策驰影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/策驰影视.json"},
 
@@ -101,7 +103,7 @@
 
 {"key": "csp_米爱","name": "🅱️米爱影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/米爱影视.json"},
 
-{"key": "csp_热播","name": "🅱️热播之家|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/热播之家.json"},
+//{"key": "csp_热播","name": "🅱️热播之家|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/热播之家.json"},
 
 {"key":"js_360","name":"🅱️影视官源|T追剧","type":3,"api":"./JS/lib/Api.js","ext":"./JS/js/360影视.js"},
 
@@ -121,25 +123,25 @@
 
 {"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"8258ace56b504539bcf66620364cacf2"},
 
-{"key": "py_cctv_大全","name": "📺央视｜大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视大全.py"},
+{"key": "py_cctv_大全","name": "📺央视｜大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./tvbox/Py/py_央视大全.py"},
 
-//{"key": "py_cctv_自选","name": "📺央视｜自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视自选.py"},
+//{"key": "py_cctv_自选","name": "📺央视｜自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./tvbox/Py/py_央视自选.py"},
 
-{"key": "py_cctv_少儿","name": "📺央视｜少儿","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视少儿.py"},
+{"key": "py_cctv_少儿","name": "📺央视｜少儿","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./tvbox/Py/py_央视少儿.py"},
 
-{"key": "py_cctv_企鹅","name": "📺体育｜直播","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_企鹅体育.py"},
+{"key":"央视经典","name":"📺央视｜经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩经典.json"},
 
-{"key": "csp_Yj1211","name": "📺综合｜直播","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "py_cctv_企鹅","name": "📺体育｜直播","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./tvbox/Py/py_企鹅体育.py"},
 
-//{"key":"js_哔哩直播","name":"📺哔哩｜直播","type":3,"api":"./tvbox/JS/lib/Api.js","ext":"./tvbox/JS/js/哔哩直播.js"},
+//{"key":"js_哔哩直播","name":"📺哔哩｜直播","type":3,"api":"./tvbox/tvbox/JS/lib/Api.js","ext":"./tvbox/tvbox/JS/js/哔哩直播.js"},
 
 {"key":"mtv_xp_动漫巴士","name":"🐼动漫丨巴士","type":3,"api":"csp_XBPQ"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/动漫巴士.json"},
 
 {"key":"mtv_xp_维奇动漫","name":"🐼维奇丨动漫","type":3,"api":"csp_XBPQ"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/维奇动漫.json"},
 
-{"key": "py_音乐","name": "🎧哔哩｜音乐","type": 3,"api": "py_yy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/音乐合集.py"},
+{"key": "csp_Yj1211","name": "🎧综合｜直播","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key": "py_歌手","name": "🎧歌手｜专辑","type": 3,"api": "py_yy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/歌手专辑.py"},
+{"key":"哔哩音乐","name":"🎧哔哩｜音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩音乐.json"},
 
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/小灯塔科学.json"},
 
@@ -151,37 +153,37 @@
 
 {"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/小灯塔国学.json"},
 
-{"key":"儿童口才","name":" 🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童口才.json"},
+//{"key":"儿童口才","name":" 🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童口才.json"},
 
-{"key":"儿童拼音","name":" 🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童拼音.json"},
+//{"key":"儿童拼音","name":" 🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童拼音.json"},
 
-{"key":"儿童识字","name":" 🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童识字.json"},
+//{"key":"儿童识字","name":" 🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童识字.json"},
 
-{"key":"儿童思维","name":" 🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童思维.json"},
+//{"key":"儿童思维","name":" 🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童思维.json"},
 
-{"key":"儿童英语","name":" 🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童英语.json"},
+//{"key":"儿童英语","name":" 🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童英语.json"},
 
-{"key":"儿童硬笔","name":" 🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童硬笔.json"},
+//{"key":"儿童硬笔","name":" 🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童硬笔.json"},
 
-{"key":"儿童编程","name":" 🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童编程.json"},
+//{"key":"儿童编程","name":" 🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童编程.json"},
 
-{"key":"儿童武术","name":" 🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童武术.json"},
+//{"key":"儿童武术","name":" 🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/儿童武术.json"},
 
-{"key": "py_幼儿","name": "🅱幼儿｜教育","type": 3,"api": "py_ye","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/幼儿教育.py"},
+{"key":"幼儿教育","name":"🅱幼小｜衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩幼小.json"},
 
-{"key": "py_小学","name": "🅱小学｜教育","type": 3,"api": "py_xx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/小学教育.py"},
+{"key":"哔哩小学","name":"🅱小学｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩小学.json"},
 
-{"key": "py_初中","name": "🅱初中｜教育","type": 3,"api": "py_cz","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/初中教育.py"},
+{"key":"哔哩初中","name":"🅱初中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩初中.json"},
 
-{"key": "py_高中","name": "🅱高中｜教育","type": 3,"api": "py_gz","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/高中教育.py"},
+{"key":"哔哩高中","name":"🅱高中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩高中.json"},
 
-{"key": "py_体育","name": "🅱体育｜健身","type": 3,"api": "py_yy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/体育健身.py"},
+{"key":"兴趣健身","name":"🅱兴趣｜健身","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩健身.json"},
 
-{"key": "py_相声","name": "🅱相声｜小品","type": 3,"api": "py_xp","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/相声小品.py"},
+{"key":"相声小品","name":"🅱相声｜小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩相声.json"},
 
-{"key": "py_美食","name": "🅱美食｜合集","type": 3,"api": "py_ms","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/美食合集.py"},
+{"key":"天下美食","name":"🅱天下｜美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩美食.json"},
 
-{"key": "py_戏曲","name": "🅱戏曲｜杂苑","type": 3,"api": "py_xq","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/戏曲杂苑.py"}],
+{"key":"戏曲杂苑","name":"🅱戏曲｜杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩戏曲.json"}],
 
 "parses":[
 
