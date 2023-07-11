@@ -6,7 +6,7 @@
     
     "主页url":"https://www.fantuanhd.com/",
     
-    "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+none;\"&&</p>",
+    "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群:112050313，单仓接口地址：http://rihou.vip:8899。+none;\"&&</p>",
     
     "影片状态":"更新：&&</p>",
     
@@ -16,13 +16,25 @@
     
     "影片年代":"年份：&&</p>",
     
-    "搜索模式":"1",
+    "搜索模式": "1",
     
-    "搜索url":"https://www.fantuanhd.com/type/id-.html?wd={wd}",
+    "搜索url": "https://www.cupfox.app/s/{wd}",
+                
+    "搜索二次截取": "type=\"application/json\">&&</script>",
     
-    "线路数组":"<h3&&/h3>[不包含:自营蓝光#夸克盘]",
+    "搜索数组": "{\"te&&}[包含:一龙高清]",
     
-    "线路标题":"🌸+>&&<+🌸",
+    "搜索图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg",
+    
+    "搜索标题": "xt\":\"&&\"",
+    
+    "搜索副标题": "饭团影视",
+    
+    "搜索链接": "https://www.fantuanhd.com/detail/+\"url\":\"http://www.yilonghd.com/detail/id-&&.html\",+.html",
+    
+    "线路数组":"<h3&&/h3>[不包含:夸克盘#奇热#无尽][排序:飞云>非凡>量子]",
+    
+    "线路标题":"🌸荷城茶秀接口🌸+>&&<",
     
     "分类url":"https://www.fantuanhd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html;;km0",
     
