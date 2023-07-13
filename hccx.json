@@ -13,7 +13,7 @@
     
 {"key": "csp_非凡","name": "🅱️茶秀非凡|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/非凡资源网.json"},
 
-{"key":"cps_bfzy","name":"🅱️暴风资源|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://111.230.24.38:4433/baofeng/api.php/app/","categories":["电影","连续剧","动漫"]},
+//{"key": "app_暴风","name": "️🅱️暴风资源|T追剧","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/"},
 
 {"key":"cps_新片热播","name":"🅱️新片速看|T追剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 
@@ -27,9 +27,13 @@
 
 {"key": "csp_蚂蚁影院","name": "🅱️蚂蚁影院|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蚂蚁影院.json"},
 
-{"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
-
 {"key": "csp_789","name": "🅱️芭蕉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/789影视.json"},
+
+{"key": "csp_看看","name": "🅱️看看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
+
+{"key":"AppYsV2_蘑菇","name":"🅱️蘑菇影视|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/","categories":["电影","国产剧","韩剧","美剧","泰剧","台剧","动漫","综艺",]},
+
+//{"key": "csp_蘑菇","name": "🅱️蘑菇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蘑菇影视.json"},
 
 {"key": "csp_徕米","name": "🅱️徕米影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/徕米影视.json"},
 
