@@ -4,7 +4,7 @@
     
     "站名":"爱看影院",
     
-    "主页url":"https://www.3wyy.com/",
+    "主页url":"https://www.3ayy.com/",
     
     "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群:85455870，单仓接口地址：http://rihou.vip:8899。+module-info-introduction\">&&</p>",
     
@@ -26,7 +26,7 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url":"/vod--search/-------------.html?wd={wd}",
+    "搜索url":"/vod---search/-------------.html?wd={wd}",
     
     "搜索数组":"module-card-item-class\">&&</a>",
     
@@ -48,7 +48,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
